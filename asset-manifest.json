@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shivamenterprises/static/css/main.420a961c.css",
-    "main.js": "/shivamenterprises/static/js/main.c96cd100.js",
+    "main.js": "/shivamenterprises/static/js/main.5937ce1c.js",
     "static/js/787.93f16c93.chunk.js": "/shivamenterprises/static/js/787.93f16c93.chunk.js",
     "static/media/34.png": "/shivamenterprises/static/media/34.856e1048d3ecf4a2722a.png",
     "static/media/44.png": "/shivamenterprises/static/media/44.bbbc6ef4c4e5542f2275.png",
@@ -57,11 +57,11 @@
     "static/media/whatsapp.png": "/shivamenterprises/static/media/whatsapp.5b449a61e0286a4d5690.png",
     "index.html": "/shivamenterprises/index.html",
     "main.420a961c.css.map": "/shivamenterprises/static/css/main.420a961c.css.map",
-    "main.c96cd100.js.map": "/shivamenterprises/static/js/main.c96cd100.js.map",
+    "main.5937ce1c.js.map": "/shivamenterprises/static/js/main.5937ce1c.js.map",
     "787.93f16c93.chunk.js.map": "/shivamenterprises/static/js/787.93f16c93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.420a961c.css",
-    "static/js/main.c96cd100.js"
+    "static/js/main.5937ce1c.js"
   ]
 }
